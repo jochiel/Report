@@ -1,0 +1,142 @@
+\documentclass[slidestop,compress,14pt,xcolor=dvipsnames]{beamer}
+\usepackage{lmodern}
+\usepackage{graphicx} %package for attaching images
+%\usepackage{hyperref}
+%\usetheme{Berlin}
+\usetheme{Ilmenau}
+\mode<presentation>
+%\setbeamertemplate{blocks}[rounded][shadow=true]
+%\usepackage{graphics}
+\setbeamercolor{section in head}{parent=palette quaternary}
+
+\makeatletter
+\setbeamertemplate{}
+{%
+\vskip-9ex%
+\begin{beamercolorbox}{}
+\hfill\usebeamercolor[fg]{navigation symbols dimmed}%
+    \insertslidenavigationsymbol
+    \insertframenavigationsymbol
+    \insertsubsectionnavigationsymbol
+    \insertsectionnavigationsymbol
+    \insertdocnavigationsymbol
+    \insertbackfindforwardnavigationsymbol
+  \end{beamercolorbox}%    
+  \begin{beamercolorbox}[ht=2ex,dp=3ex]{section in head}%
+    \insertnavigation{\paperwidth}
+  \end{beamercolorbox}%
+}%
+\makeatother
+
+
+\begin{document}
+
+\section{Title}
+\begin{frame}{Analysis of survey data on development of virtual learning environment at KWTRP}\vfill
+Jackline Awino Ochiel\newline
+Date: 11/5/2014\vfill
+\textbf{Supervisor}\newline
+Dr. Greg Fegan\newline
+
+
+\end{frame}
+
+%\begin{frame}
+%\titlepage
+%\end{frame}
+\section{introduction}
+\begin{frame}
+\frametitle{introduction}
+\begin{itemize}
+\item Due to the rising number of young researchers entering the program, the demand for training on basic statistical techniques is increasingly overwhelming to the staff. 
+\item The internet could help counter this, in the recent development in e-learning, there are plenty of freely available materials in form of videos and problem sets on various courses. 
+\item MOOC has added interactive discussion and forums that are helpful in delivering required skills.
+\end{itemize}
+\end{frame}
+
+\section{objective}
+\begin{frame}
+\frametitle{objective}
+
+To develop a statistical course in an in-house virtual learning environment (VLE) using preexisting materials from publicly available massive open online courses (MOOCs)
+\end{frame}
+
+%\begin{frame}
+
+%<<echo=TRUE, results='asis'>>=
+%summary(cars)
+
+%@
+
+%\end{frame}
+\section{method}
+\begin{frame}
+\frametitle{method}
+\begin{itemize}
+\item First a survey was done on the available online materials that are efficient on statistical skills and courses that are relevant for junior scientist were recommended. 
+\item 300 questionnaires were generated using Redcap then sent to program members to get their view on the development.
+\item 60 questionnaires were completely answered and used for analysis.
+\end{itemize}
+  
+\end{frame}
+%\begin{frame}{result}
+
+<<results='hide',echo=F>>=
+survey<-read.table("survey.csv.csv",header=T,sep=",")
+names(survey)<-c("id","rdcpid","timstmp","des","othrdes","edlvl","proflvl","muse","mexprnc","lnprfrnc","prfon1","profon2","profon3","profon4","profon5","profon6","prff1","prff2","prff3","prff4","sof1","sof2","sof3","sof4","sof5","sof6","otrsof","prsof","otrpmsof", "topc1","topc2","topc3","topc4","topc5","topc6","topc7","topc8","topc9","topc10","othtopc","idea","copmlt")
+                 head(survey)
+@
+%\end{frame}
+\section{results}
+\begin{frame}{results}
+
+<<echo=F, warning=FALSE,tidy=TRUE,fig.height=4.2,fig.width=7.2>>=
+survey$des[survey$des==1]<-"INT"
+survey$des[survey$des==2]<-"R.AS"
+survey$des[survey$des==3]<-"PHD"
+survey$des[survey$des==4]<-"PDR"
+survey$des[survey$des==5]<-"IND"
+survey$des[survey$des==6]<-"SNR"
+survey$des[survey$des==7]<-"STAT"
+survey$des[survey$des==8]<-"OTHER"
+
+table1<-table(survey$des)
+barplot(table1,ylab="count",main="survey respondents",col="blue")
+
+@
+\end{frame}
+\begin{frame}{results}
+\begin{itemize}
+\item 40$\%$ have used MOOCS before.
+\item 53$\%$ of the program members use stata as the primary software for statistical analysis
+\item 95$\%$ suggest that descriptive statistics is a basic statistic topic that every researcher should be introduced to.
+\item 28$\%$ prefer online learning while 50$\%$ prefer face-to- face the others had no prefrences
+\end{itemize}
+\end{frame}
+\begin{frame}{result}
+<<echo=FALSE,warning=FALSE,tidy=TRUE,fig.height=4.2,fig.width=7.2>>=
+survey$edu[survey$edlvl==1]<-"bachelor"
+survey$edu[survey$edlvl==2]<-"masters"
+survey$edu[survey$edlvl==3]<-"phd"
+survey$edu[survey$edlvl==4]<-"medicaldegree"
+
+
+table2<-table(survey$edu)
+
+
+#head(survey$edulvl)
+barplot(table2,ylab="count",main="project rating",col="blue")
+@
+\end{frame} 
+\begin{frame}{conclusion}
+\begin{itemize}
+\item   Most program members prefer face-to-face mode of learning
+\item Those with bachelors degree rated the project to be useful compares to others
+\item Most people havent used MOOCs, those who have used it find it very useful
+\item	Most statisticians are more proficient in descriptive statistics 
+
+\end{itemize}
+\end{frame}
+
+
+\end{document}

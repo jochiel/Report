@@ -1,0 +1,514 @@
+\documentclass[pdftex,12pt]{article}
+
+\begin{document}
+\title{ MASENO UNIVERSITY}
+\maketitle
+%\LARGE
+\begin{center}
+\section*{Department of Mathematics, Actuarial Science and Statistics}
+(A report following atttachment at KEMRI wellcome Trust 
+between 8th September 2014 and 28th November 2014 submitted in partial fulfillment of a degree in BSC. Applied statistics with IT)
+\end{center}
+
+\section*{declaration}
+I made all the efforts to ensure the accuracy of  information in this report,  the references mentioned are some of the resources from where I obtained information to come up with the report
+\section*{acknowledgment}
+Am immensely grateful to KWTRP for giving me the chance to be an attaché in their institution and providing me with the facilities I used during my attachment. In particular, I sincerely acknowledge the head of statistics department, Dr. Greg Fegan for exposing me to useful statistical software and real data.  His advice and guidance was handy through my attachment. He is indeed a living legacy of excellence that will enrich generation of young statisticians. \\ I would also like to acknowledge Maseno University department of statistics for their vast knowledge that helped me in my attachment. In particular, special regards to my supervisor Mr. Omurundo. I also acknowledge Amos and Ken, statisticians at KWTRP, for their endless assistance in handling statistical software. Finally, extend my heartfelt gratitude to Horace, quality assurances officer at KWTRP, for his constant encouragement and support that made my attachment a success.\vfill 
+\tableofcontents
+   \section  {Introduction}
+The attachment took place from 8th September 2014 to 28th November 2014.This report outlines the background, administrative structure and programs run by KWTRP. It describes the duties I performed and details of skills I acquired from the institution. It also explains the analysis I did and the presentation of the analysis.   
+\section {\large CHAPTER ONE}
+\normalsize
+\subsection{Historical background of the organization}
+
+
+KEMRI was established following an amendment act in science and technology in 1979 to represent the national body responsible for conducting health science research in Kenya. Before its establishment health research was conducted by auspices of EAMRC which was established in 1957 to serve east African community. \\ Kenyan parliament passed the science and technology Act in 1977 following the breakup of EAMRC, then amended it in 1979 to provide for establishment of research institutes.
+ KWTRP is a partnership between KEMRI, Oxford University and Wellcome Trust established in 1989. It conducts basic  epidemiological and clinical research. It aims at expanding the country’s capacity to conduct multidisciplinary research that is strong, sustainable and internationally competitive.
+%\begin{center}
+\subsection*{Mission}
+
+%\end{center}
+To deliver high quality research relevant to global health and to build local capacity for undertaking research.
+%\begin{center}
+
+\subsection*{Vision}
+%\end{center}
+To establish long-term sustainable capacity for research in human health that improves global health.
+%\begin{center}
+\subsection{Location} 
+%\end{center}
+The Program has two main bases in Kenya but works in many other parts of the country and is increasingly involved in regional collaborations to support research in neighboring countries.\newline
+
+The main Centre is in Kilifi County, an hour's drive from Mombasa, it is based in a busy district hospital, serving over half a million people and linking basic studies to clinical applications with local relevance.
+%\begin{center}
+\subsection{organization structure}
+%\end{center}
+The program is organized into five broad departments; there is considerable crossover and interaction between the groupings, with many researchers being members of more than one department. The departments are listed below;
+\begin{itemize}
+\item Research support
+\item  Public health research 
+\item Pathogens, vectors and host, biology
+\item  Epidemiology and demography
+\item Clinical research
+\end{itemize}
+\subsection{Core values}
+\begin{center}
+{Accountability}
+\end{center}
+As diligent stewards of public trust and public funds, they act decisively and compassionately in service to the people’s health. They ensure that their research and services are based on sound science and meet real public needs to achieve public health goals. 
+\begin{center}
+{Innovativeness}
+\end{center}
+they are committed to promoting and supporting creativity.to ensures the country’s capacity to conduct multidisciplinary research is strong, sustainable and internationally competitive.
+\begin{center}
+{Respect and fairness}
+\end{center}
+KWTRP understands and values interdependence with all people, both inside the program and thought the world. They value and treat people’s contributions with dignity. They are committed to achieving a diverse workforce at all levels of the organization and highly embrace cultural diversity.
+
+\subsection{Objectives}
+KWTRP bases its operations under the following objectives
+\begin{itemize}
+\item To carry out research to the highest international scientific and ethical standards on major causes of morbidity and mortality in Africa
+\item To build strong and sustainable internationally competitive, national and regional research capacity;
+\item To work in a way that facilitates integration and cross fertilization of scientific disciplines;
+\item To conduct intervention research and basic research in parallel and to have a direct input to local and international health policy
+\end{itemize}
+\section{CHAPTER TWO}
+\subsection{Programs run by the organization}
+Initially, most activities focused on the major public health problem of malaria. Although malaria remains one of the priorities, child and maternal health, HIV/AIDS and other several emerging infections program  are also primary now
+%\begin{center}
+\subsection{ Malaria program}
+%\end{center}
+Malaria has always formed a central theme for  KWTRP. The research covers the whole spectrum of research from basic biology, understanding immunity and disease, clinical trials of new drugs and vaccines, through community based studies to large scale mapping of malaria transmission and control efforts in many countries across Africa. Some of the malaria research areas are:
+ %\begin{center}
+\section*{Establishing a malaria human challenge facility in Kenya}
+%\end{center}
+The PVHB research group is establishing a facility for experimental human challenge with malaria with colleagues at the KEMRI Centre for Clinical Research in Nairobi.  Carefully controlled challenge will allow both the study of experimental vaccines and the better understanding of how humans make an immune response to malaria.  
+The research is aimed at defining the target of immunity and mediator of virulence, understand regulation and maintains of immunity and contribute to development and testing of vaccines.
+%\begin{center}
+\subsection{HIV/AIDS program}
+%\end{center}
+By 2012 it was estimated that 1.2 million people are infected by HIV in Kenya, HIV affects all segments of the society .transmission has been studied among people at higher risk of infection and its estimated that up to 50$\%$ of new infections are people who got  HIV by themselves.  KWTRP therefor focuses on diagnosing adults with HIV infection, improvement drug regimens and support to take life-long drugs.
+%\begin{center}
+\section*{Dynamics and constraints of early infant diagnosis of HIV infection in Rural Kenya}
+%\end{center}
+Cohort design was used to determine uptake and drop out of 213 HIV-exposed infants. Observation and in-depth interviews were conducted through service providers and care givers. 145 (68$\%$) infants enrolled after 2  months of age. 139 (65$\%$) dropped out before follow up to 18 months old. \\ 60 (43$\%$) drop outs occurred within 2 months of enrolment. Maternal factors associated with infant drop out were maternal loss to follow up (48 [68$\%$] vs. 8 [20$\%$], P < 0.001) and younger maternal age (27.2 vs. 30.1 years, P = 0.033). 
+\subsection{Maternal and Perinatal Health}%\normalsize
+%\end{center}
+%\subsection
+%\begin{center}
+\section*{Improving maternal and infant mortality are key priorities in Kenya and internationally}
+%\end{center}
+KIPMAT aims to determine the burden and risk factors for adverse maternal and newborn outcomes in Kilifi. They are assessing the effects of HIV, maternal nutrition, malaria infection, bacterial infection, anemia and other risk factors on maternal and infant morbidity and mortality.  Longer term morbidity and survival of mothers and infants, and the later consequences to children’s health is monitored through the KHDSS.
+%\subsection
+%\begin{center}
+\section*{Maternal responses to childhood fevers a comparison of rural and urban residents in coastal Kenya}
+%\end{center}
+The study involved comparison of lifelong rural (n = 248) and urban resident (n = 284) Mijikenda mothers' responses to childhood fevers. Despite differences between the rural and urban study areas, rural and urban mothers' treatment-seeking patterns were similar.88$\%$of the mothers sought only biomedical treatment. \\ Shop-bought medicines were used first or only in 69$\%$ of the rural and urban fevers that were treated, and government or private clinics were contacted in 49$\%$.
+ A higher proportion of urban informal vendors stocked prescription-only drugs, and urban mothers more likely to contact a private than a government facility. 
+\subsection {Vaccine program}
+Vaccinations are one of the most cost effective public health interventions and have transformed disease burdens globally.  KWTRP  works on every phase of vaccine development; from Phase I trials to examine the safety and immunogenicity of recombinant viral vectors, through Phase II trials showing proof-of-concept efficacy and Phase III multi-centre trials of the GSK candidate malaria vaccine RTS,S, to major Phase IV before-after evaluations of the effectiveness of the pneumococcal conjugate. Some research areas 
+%\subsection
+%\begin{center}
+
+%\begin{center}
+\subsection {Other programs}
+%\end{center}
+
+KWTRP runs several other programs apart from the few I highlighted. They include:
+\begin{itemize}
+\item	Malaria evolution program  
+\item	Research ethics                                          
+\item	Malnutrition program                                                   
+\item	Naturally acquired immunity to malaria                    
+\item	Demography surveillance system program                   
+\item	Informatics program                                                          
+\item	Health system research program                                      
+\item Vaccine evaluation program                                               
+\item	Community microbiology program
+\item	Cellular immunology program
+\item	Community engagement program
+\item	Host Genetics program
+\item Non communicable diseases program
+\item	PCVIS program
+\item Disease biomarker program
+\end{itemize}
+\section{CHAPTER THREE}
+\subsection{Information regarding attachment}
+Industrial attachment is a course offered as part of degree of B.Sc. Applied statistics with IT under the code SAS 317 in Maseno University. It’s offered to expose students to the working environment, to give students a chance to apply the knowledge gained during the course and to interact with potential employers. I did my attachment at KWTRP in the department of statistics under the supervision of Dr. Greg Fegan .during that period I underwent a lot of training under the directives of my supervisor and other members of the statistics department.
+%\begin{center} 
+\subsection{Objectives of attachment}
+%\end{center}
+\begin{itemize}
+\item Enable students  to meet challenges that are related to their field of specialization and learn way to effectively counter them
+\item Enable students acquire the necessary work ethics by observing how professionals relate and closely interacting with them
+\item	Give the students a chance to put into practice the concept learnt during the course and relate their relevance to the working environment
+\item	Identify areas of weakness with an aim of improving on them in future
+\item	To expose students to the improved technology advancement in the job market and  the new developments in data analysis technics
+\end{itemize}
+%\begin{center}
+\subsection{Duties}
+%\end{center}
+\begin{itemize}
+\item	Taking online courses 
+\item	Data analysis, management and presentation using R, R-Studio and Stata.
+\item	Data management for surveys using epidata
+\item Assisted in any other duties given by the supervisor
+\end{itemize}
+
+%\begin{center}
+
+\subsection{Skills acquired}
+%\end{center}
+\begin{itemize}
+ \item Observed application of statistics in health research
+\item	Data analysis, management and presentation using R, R-studio and Stata.
+\item	Data management for surveys using epidata
+\item	Record changes to files( version control) using git and GitHub
+\item	Report and presentation generation using LaTeX in R-studio
+\end{itemize}
+
+%\begin{center}
+\section*{Taking online courses}
+%\end{center}
+There are massive open online courses over the internet on variety of topics and approximately 40 MOOC’s providers. In the first week I took an online R course offered by Karolinska Institute on Edx It involved exploring statistics using R. I finished successfully and earned an Honor code. I also did  an epidemiology course offered by University of North Carolina on coursera. This showed the close relationship between statistics and public health and application of statistics in health research. I also did a course on Data Scientist Tool Box offered by Johns Hopkins University. It covered what is required for proper analysis, reproducible research, machine learning, R packages, R tools and introduction to Git and GitHub. 
+
+<<tidy=TRUE,results='hide'>>=
+
+plot((0:20),(0:20)^4,axes=F,type="l",ylab="my knowledge of R",xlab="Days",main="KIexploRx Explore Statistics with R my progress");abline(v=0);axis(side=1)
+
+@
+%\begin{center}
+
+\section*{Details of skills acquired}
+%\end{center}
+%\begin{center}
+
+ \section*{Observed application of statistics in health research}
+%\end{center}
+I attended a seminar on malaria control conducted in Ethiopia using the heads of families as the intervention. From the presentation I identified how the researcher applied statistical knowledge to analyze his data which involved formulation of hypothesis using p-value to make conclusions. I also took a self-paced course on epidemiology offered by university of North Carolina. Through the course I identified how health researchers apply statistics in answering their research questions. Their research works  include\\
+
+\section*{Measure of health outcome}
+Health outcome is the impact healthcare activities have on people — on their symptoms, abilityability to do what they want to do and on whether they live or die. It include whether a given disease process gets better or worse. It focuses not on what is done for patients but what results from what is done. Health outcome can be measured through:
+
+ \section*{Measure of frequency:} It characterizes the occurrence of health outcomes, in a population.
+These measures are descriptive in nature and indicate how likely one is to develop a health outcome in a specified population. The measures of frequency are prevalence, risk, rates and odds.\\
+
+ \emph {Prevalence:}
+Prevalence is the proportion of a population who has the health outcome at a given period of time. It is generally the preferred measure when it is difficult to define onset of the health outcome or any disease of long duration. There are point and period prevalence difference being time factor. Prevalence = No. of affected individuals÷total No. of individuals in the population. Malaria infects 10\% of the world population is the prevalence of malaria.\\
+\emph{Risk:}
+It’s the measure of the probability of unaffected individual developing a specified health outcome over a given period of time. Risk =No. of new cases÷ total No. of individuals at risk. Risk is measured in prospective studies since population at risk can be defined at the start of the study. It’s not applicable in case-control studies odds are used instead.\\
+
+ 
+\emph  {Odds:}
+It’s the ratio of the probability that health outcome will occur to the probability that the health outcome will not occur. It’s used mostly in case-control studies and can easily be interpreted by both clinicians and lay-people. Odd = No. of individuals’ with health outcome ÷ No. of individuals without the health outcome.\\
+\emph	{Rates:} 
+It’s the measure of how quickly the health outcome is occurring in a population.
+Rate = No. of individuals with the health outcome ÷ No. of individuals without the health outcome.
+Measure of association: They are utilized to compare the association between a specific exposure and health outcome and can also be used to compare two or more populations, those with differing exposure or health outcome status, to identify factors with possible etiological roles in health outcome onset.\\
+\emph	{Risk difference:}
+It provides the difference in risk between two groups indicating how much excess risk is due to the exposure of interest. Positive difference indicates excess risk due to the exposure while a negative difference shows that exposure has protective effects against outcome. It’s normally used to determine how much risk can be prevented by an effective intervention.\\
+
+\emph	{Risk ratio and rate ratio:}
+They are normally used in cohort studies. They are measures of strength association between exposure and outcome. Risk ratio is the ratio of risk in the exposed group to the risk in the unexposed group. Rate ratio is the ratio of rates in the exposed group to the rates in the unexposed group.\\
+\emph{Odds ratio:}
+It’s used in place of risk ratio and rate ratio in case-control studies, An odds ratio may approximate the risk ratio or rate ratio in instances where the health outcome prevalence is low (less that 10\%) and specific sampling techniques are utilized the odds ratio is interpreted in the same manner as the risk ratio or rate ratio with an OR of 1.0 indicating no association, an OR greater than 1.0 indicating a positive association, and an OR less than 1.0 indicating a negative association.\\
+\emph	{Null value}
+The null value is a number corresponding to no effect, no association between exposure and the health outcome. In epidemiology, the null value for a risk ratio or rate ratio is 1.0, and it is also 1.0 for odds ratios and prevalence ratios. A risk ratio, rate ratio, odds ratio or prevalence ratio of 1.0 is obtained when, for a risk ratio for example, the risk of disease among the exposed is equal to the risk of disease among the unexposed. Statistical testing focuses on the null hypothesis, which is a statement predicting that there will be no association between exposure and the health outcome.
+\section* {Measure of precision}
+ 
+\emph{Confident interval:}
+A confidence interval expresses the extent of potential variation in a point estimate (the mean value or risk ratio, rate ratio, or odds ratio). This variation is attributable to the fact that our point estimate of the mean or risk ratio, rate ratio, or odds ratio is based on some sample of the population rather than on the entire population. The confidence interval also provides information about how precise an estimate is. The narrow the confidence interval the more precise the estimate.  Larger sample sizes will provide a more precise estimate. Estimates with wide confidence intervals should be interpreted with caution
+
+\section*{Measure of significance}
+
+ \emph{The p-value:} The "p" value is an expression of the probability that the difference between the observed value and the null value has occurred because of sampling variability. The smaller the "p" value, the less likely the probability that sampling variability accounts for the difference.  A "p" value less than 0.05, is used as the decision point If the "p" value is less than 0.05, the observed risk ratio, rate ratio, or odds ratio is often said to be "statistically significant."  The exclusive use of "p" values for interpreting results of epidemiologic studies has been strongly discouraged in the more recent texts and literature because research on human health is not conducted to reach a decision point but rather to obtain evidence that there is reason for concern about certain exposures.
+% \begin{center}
+\section* {2. Data analysis, management and presentation using R}
+
+%\end{center}
+R is a free software programming language and software environment for exploration, describing and analyzing data. It’s a case-sensitive language where you can run one command at a time or a set of commands using a source file. To use R effectively it’s important to learn how to use built-in help system, inputting programs and outputting results. For quality output there is a section on packages and GUI that are developed for R.\\
+%\large
+\section*{R workspace}
+%\normalsize
+
+Every R session takes place in a working directory. For every analysis it’s good to create a new working directory.\emph Setwd ( ), \emph getwd ( ),\emph dir ( ) are useful functions here.\\
+ls ( ) :will display all objects in your workspace.\\
+rm (list=ls()): removes all objects in your workspace\\
+data( ) :gives a list of built-in datasets that are useful for practice.\\
+detach ( ) and attach ( ) : used to remove and make objects visible respectively\\
+save( ) : save all the work in you set directory.\\
+load ( ): load back your objects into r.\\
+%\begin{center}
+\section*{Packages}
+%\end{center}
+Packages are collection of R functions, data and compiled code. Library is the directory where packages are stored. R has standard packages others are available for download and installation. Once installed, they are load into the working session to be used. Here are some useful functions:
+libpaths( ): get library location\\
+library( ): shows all installed packages\\
+install.packages( ): install a new package\\
+library( package): load package into your working session\\
+
+%\begin{center}
+\section*{R Graphical User Interface}
+%\end{center}
+R has a command line interface which allows direct control on calculation and is flexible.
+ Commands are entered at the prompt (>) commands are executed one at time or using the r script several commands can be executed at the same time.\\
+
+\section*	{Data presentation}
+%\normalsize
+Putting results of experiments into graphs, charts and tables is the best way to show the data to others since reading lots of numbers does little to convey the message. It’s also the best way to visualize your data and make proper interpretations. Data presentation before analysis helps to visualize distribution of various variables and select the best analysis to be done. Data may be presented in the form of:
+\begin{itemize}
+\item  boxplot 
+\item	pie Chart
+\item Histogram
+\item	Scatter plots
+\item Bar charts
+\item	Dot chart
+\item Table: applicable for small dataset 
+\item Frequency polygon
+\end{itemize}
+%\large
+\section*{Data management}
+%\normalsize
+I learnt how to manage data using R program. This includes:
+\begin{itemize}
+\item	Importing data into R from SPSS, SAS, STATA, internet and excel\\
+\item 	Using R functions to create and record variables\\
+\item 	Sorting and merging datasets\\
+	\item Aggregating and reshaping data.\\
+\item 	Subsetting datasets.\\
+\end{itemize}
+%\large
+\section*	{Exploration of data}
+%\normalsize
+Data exploration helps to focus on the relevant data before analysis begins. Be organized by keeping records of the exploration and your thoughts. This will help when you begin your analysis since you organize your findings and focus on the relevant aspect of your analysis. The following are useful for exploration of data using R.
+
+Dim( ): gives the dimensions of the data frame \\
+Nrow( ) and Ncol( ): gives No. of rows and columns \\
+Head( ): to obtain the first six observations \\
+Tail( ): to obtain the last six observations\\
+Names( ): returns column header\\
+Str( ): returns dimension and type of data for each column,\\ 
+%\large
+\section*{Statistical analysis using R program}
+%\normalsize
+Through the edx course I did analysis of parametric and non parametric test. 
+\begin{itemize}
+\item One sample t-test: it’s used to compare statistical mean for normally distributed variable to compare the mean to a hypothesized mean.\\
+\item Welsh two sample t-test: it compares the means of two independent normally distributed variables and show if there is a difference in the means when the variances are unequal \\
+\item Two sample t-test:  it compares the means of two independent normally distributed variables and show if there is a difference in the means when the variances are equal.\\
+\item Pairwise t-test: it compares the means of two dependent normally distributed variables showing if there is a difference in the two means\\
+\item ANOVA test: it used to compare means of more than two samples and show if there is a difference in means. 
+\item Wilcoxon rank-sum test: it’s an alternative to the GroupWise t-test\\
+\item Wilcoxon signed-rank test: it’s an alternative for the pairwise t-test\\
+\item Kruskal-wallis: the non-parametric alternative for ANOVA test\\
+\end{itemize}
+\section*{R-studio}
+
+R-Studio is an integrated development environment for R. It provides a centralized and well organized place to do almost anything you want to do with R. it is especially well integrated with literate programming tools for reproducible research. R-Studio is available in two editions: R-Studio Desktop, where the program is run locally as a regular desktop application; and R-Studio Server, which allows accessing R-Studio using a web browser. \\
+
+\section* {R-studio layout}
+There are default windows that shows up when R studio is open 
+\begin{itemize}
+\item Console: it functions basically the same way as the console in R
+\item History/ workspace: history pane records all the commands run it allows return to a code and insert it into a code source file while workspace shows all the objects in your workspace and their characteristics.
+\item Files/Plots/Packages/Help: file pane helps to see and organize your file. Plot pane is where figures created in R appear. Packages pane shows the packages 
+installed and help pane shows the help file.
+\item Source pane: this pane allows creating, editing and running your source code files it functions as an editor and forms the basis of reproducible research in R-studio. Source pane has R source code, R markdown files and R Latex files.
+\end{itemize}
+\section* {Data analysis, management and presentation using Stata}
+Stata is a powerful statistical package with good data-management facilities, a wide array of statistical techniques, and an excellent system for producing publication-quality graphs. It’s fast and easy to use. It’s case sensitive.\\
+
+
+\section* {Stata interface}
+Stata has five windows command window where commands are typed, results window where the results of your commands are shown, review window which keeps track of used commands, variable window which list variables in your dataset and finally the properties window display properties of the variables. 
+
+\section* {User Graphical Interface}
+Stata has GUI which allows selecting commands and options from a menu and dialog box. After point and click Stata types the corresponding command. For reproducible results its better to use a do file instead.
+
+
+\section* {Help in Stata}
+To obtain help on a command or function in Stata help command-name this displays help on viewer window help command-name will display help on results window. If you don’t know command name help search gives a few options.
+
+\section* {Data presentation in Stata}  
+Just like in R data presentation before analysis helps to visualize distribution of variables and select the best analysis to apply. After analysis data presentation helps in proper interpretation and the best and easiest way to show your result to others.
+
+\section*{Data management using Stata}
+Data management using Stata included:\\
+
+•	Importing data into Stata from spreadsheet files\\
+•	Using functions to create, record and rename variables\\
+•	Sorting and merging datasets\\
+•	Sub setting datasets and observations.\\
+•	Appending data files\\
+
+\section*{Data exploration using Stata}
+It is often the case that some effort must be made to focus your attention on pertinent aspects of your data before true analysis can begin. The key to managing such an exploration is to be organized. Keeping records about the exploration, recording your thoughts and ideas along the way, and organizing your findings are all important. The following procedures are used for exploration of data using Stata
+\begin{itemize}
+\item Summarize: produces summary statistics for each variable
+\item Tabulate:  produces summary statistics of mean and standard deviations for specified variable
+\item List: list all the observations for the variable specified
+\item Describe: gives the variable name, label and type
+\item Codebook: important for showing missing values
+\end{itemize}
+\section*{Statistical analysis using Stata}
+Using the in-built datasets I did analysis on several data, some of the analysis involved:\\
+•  One sample t-test: A one sample t-test allows us to test whether a sample mean (of a normally distributed interval variable) significantly differs from a hypothesized value.\\ 
+•	Paired t-test: A paired (samples) t-test is used when you have two related observations (i.e., two observations per subject) and you want to see if the means on these two normally distributed interval variables differ from one another.\\
+•	Wilcoxon signed rank sum test: The Wilcoxon signed rank sum test is the non-parametric version of a paired samples t-test.\\
+
+
+
+\section*{Version control using git and GitHub}
+git is a distributed version control system which runs at the command line of your local machine. It keeps track of your files and modifications to those files in a repository. GitHub is a web page where you can publish your repositories and collaborate with other people. git saves repositories locally on your machine and using git push command you can send some branches to GitHub. 
+
+\section*{Data management for surveys using epidata}
+
+Epidata is a program with focus on data entry.  It does not contain any complex data analysis functions but data can be exported to SAS, Stata or other preferences. to create surveys you define database,Database is a file with information about variables such as the name and range with a defined structure. To define database we specify each variable name, type and length. 
+
+
+        
+
+
+Data management in epidata is divided into two categories first to manage individual variable and create category in a dataset then secondly using several dataset simultaneously.
+
+
+\section*{Report generation and presentation using LaTeX in R studio}
+
+I learnt how to generate and present reports using R-studio and the beamer class of latex by writing code After the analysis I made a presentation of the analysis using Latex in R studio. This entails writing several lines of code, using packages and theme to come up with  presentable ocuments. You can include R codes in the document by first putting the symbol  <<          >>= the code ends with @. The presentation slides are attached at the end of the report.
+
+
+
+\section*{Achievements}
+From the various activities have been involved in during my Attachment period at KWTRP the following are my achievements:
+\begin{itemize}
+\item  Data management and analysis using R, R-studio and Stata
+•\item	Project presentation using Latex in R-studio 
+•\item	Data management for surveys using epidata
+•	\item Version control using Git and GitHub
+•	\item Professionalism in report writing
+\end{itemize}
+
+
+\section* {Analysis of survey data on development of virtual learning environment at KWTRP}
+
+Introduction\\
+     Due to the rising number of young researchers entering the program, the demand for training on basic statistical techniques is increasingly overwhelming such that they are not able to provide sufficient support for it. The internet could help counter this since in the recent development in e-learning, there are plenty of freely available materials in terms of videos and problem sets on various courses. MOOC has added interactive discussion and forums that are helpful in delivering required skills. There are several well financed providers associated with top universities that offer MOOCs. I did a course on edx and coursera they were very educative though a learner has to be self-driven to gain fully from the course.
+\section*{Objective}
+To develop a statistical course in an in-house virtual learning environment (VLE) using pre-existing materials from publicly available massive open online courses (MOOCs)
+
+\section*{Method}
+First, survey was done on the available online materials that are efficient on statistical skills and courses that are relevant for junior scientist were recommended.  300 questionnaires were generated using Redcap and then sent to program members to get their view on the development. 60 questionnaires were completely answered and used for analysis. 
+
+
+\section*{Results}
+
+Level of proficiency in statistical analysis\\
+To get the level of proficiency in statistical analysis distribution I compared statistical proficiency among the interns and non-interns. I also compared the level of statistical proficiency based on education level. 
+     
+
+\section*{MOOCs use and experience}
+From the survey data I did analysis of those who have used MOOCS before and their experience. Where I found out that  40\% have used MOOCS before. From this I checked for association between  MOOCS use and the learning preference using fishers exact test. From the results  a p-value of 0.94 implies the null hypothesis is to be rejected. There is no propotionality between the two variables.
+\section*{Rating}
+this shows people views on developing a virtual learning environment within the program rating it as very useful, useful and not useful first among the interns and non-interns.
+I also did analysis on project rating basing on level of education rated as very useful, useful, not useful.
+
+\section*{Presentation of Analysis of survey data on development of virtual learning environment at KWTRP}
+
+%\subsection*{Title}
+%\begin{frame}{Analysis of survey data on development of virtual learning environment at KWTRP}\vfill
+%Jackline Awino Ochiel\newline
+%Date: 11/5/2014\vfill
+%\textbf{Supervisor}\newline
+%Dr. Greg Fegan\newline
+%\end{frame}
+<<results='hide',echo=F>>=
+survey<-read.table("survey.csv",header=T,sep=",")
+names(survey)<-c("id","rdcpid","timstmp","des","othrdes","edlvl","proflvl","muse","mexprnc","lnprfrnc","prfon1","profon2","profon3","profon4","profon5","profon6","prff1","prff2","prff3","prff4","sof1","sof2","sof3","sof4","sof5","sof6","otrsof","prsof","otrpmsof", "topc1","topc2","topc3","topc4","topc5","topc6","topc7","topc8","topc9","topc10","othtopc","idea","copmlt")
+                 head(survey)
+@
+
+\section*{results}
+\begin{frame}{results}
+
+<<echo=F, warning=FALSE,tidy=TRUE,fig.height=4.2,fig.width=7.2>>=
+survey$des[survey$des==1]<-"INT"
+survey$des[survey$des==2]<-"R.AS"
+survey$des[survey$des==3]<-"PHD"
+survey$des[survey$des==4]<-"PDR"
+survey$des[survey$des==5]<-"IND"
+survey$des[survey$des==6]<-"SNR"
+survey$des[survey$des==7]<-"STAT"
+survey$des[survey$des==8]<-"OTHER"
+
+table1<-table(survey$des)
+barplot(table1,ylab="count",main="survey respondents",col="blue")
+
+@
+\end{frame}
+\begin{frame}{results}
+\begin{itemize}
+\item 40$\%$ have used MOOCS before.
+\item 53$\%$ of the program members use stata as the primary software for statistical analysis
+\item 95$\%$ suggest that descriptive statistics is a basic statistic topic that every researcher should be introduced to.
+\item 28$\%$ prefer online learning while 50$\%$ prefer face-to- face the others had no prefrences
+\end{itemize}
+\end{frame}
+\begin{frame}{result}
+<<echo=FALSE,warning=FALSE,tidy=TRUE,fig.height=4.2,fig.width=7.2>>=
+survey$edu[survey$edlvl==1]<-"bachelor"
+survey$edu[survey$edlvl==2]<-"masters"
+survey$edu[survey$edlvl==3]<-"phd"
+survey$edu[survey$edlvl==4]<-"medicaldegree"
+
+
+table2<-table(survey$edu)
+
+
+#head(survey$edulvl)
+barplot(table2,ylab="count",main="project rating",col="blue")
+@
+\end{frame} 
+\begin{frame}{conclusion}
+\begin{itemize}
+\item   Most program members prefer face-to-face mode of learning
+\item Those with bachelors degree rated the project to be useful compares to others
+\item Most people havent used MOOCs, those who have used it find it very useful
+\item  Most statisticians are more proficient in descriptive statistics 
+
+\end{itemize}
+\end{frame}
+\section{CHAPTER FOUR}
+\subsection{Recommendation and conclusion}
+\section*{To KWTRP}
+\begin{itemize}
+ \item The organization should continue with the program of training students on statistical skills through MOOCs since it encourages self motivation to explore and learn more.
+\item	The statistics department should continue exposing students to statistical software since it helps in applying the theoretical knowledge  
+\end{itemize}
+\section*{To maseno university}
+\begin{itemize}
+\item It would be quite useful Introduce students to freely available statistical packages such as R early to help nurture statistical skills
+	\item It would be beneficial to adjust the course content to include units in  practical statistical analysis and new development in data analysis techniques 
+\item	Actively consult prospective employers on necessary courses required for modern statisticians
+\end{itemize}
+\section*{Conclusion}
+My attachment at KWTRP was rewarding, I got exposed to several statistical software that raised my interest to learn more on data analysis. MOOCs gave me self motivation to explore and learn more on the respective areas. I was also exposed to real data which I performed analysis to answer various questions. I learnt about various kinds of data used in medical research and how researchers use statistical analysis in their work.\\ I also learnt various general aspects of the work place including how things are organized and how employees interact and conduct themselves. The interaction with members of statistics department, who were proficient in statistics, was both a challenge and a motivation. I achieved my aim to obtain skills that are relevant for modern statisticians. With the available resources I believe subsequent attachés are bound to benefit.  
+
+
+
+
+
+
+
+
+\section{CHAPTER FIVE}
+\subsection{Refrence}
+www.kemri-wellcome.org\\
+www.r-project.org\\
+Stata tutorial Princeton 2007 (PDF), Oscar Torres-Reyna
+
+
+
+\end{document}
+
+\end{document}
